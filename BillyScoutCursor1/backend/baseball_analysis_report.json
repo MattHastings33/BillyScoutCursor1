@@ -1,0 +1,757 @@
+{
+  "video_info": {
+    "duration": 3.0,
+    "fps": 30.0,
+    "total_frames": 90,
+    "processed_frames": 90
+  },
+  "pitches": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "type": "unknown",
+      "velocity": 85.66223831257048
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.06666666666666667,
+      "type": "unknown",
+      "velocity": 92.18330477802937
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.13333333333333333,
+      "type": "unknown",
+      "velocity": 87.11257398799903
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.2,
+      "type": "unknown",
+      "velocity": 94.68686708974988
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.26666666666666666,
+      "type": "unknown",
+      "velocity": 87.32490023677919
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.3333333333333333,
+      "type": "unknown",
+      "velocity": 89.75609227254424
+    },
+    {
+      "frame": 12,
+      "timestamp": 0.4,
+      "type": "unknown",
+      "velocity": 86.44166175787299
+    },
+    {
+      "frame": 14,
+      "timestamp": 0.4666666666666667,
+      "type": "unknown",
+      "velocity": 87.41383626769058
+    },
+    {
+      "frame": 16,
+      "timestamp": 0.5333333333333333,
+      "type": "unknown",
+      "velocity": 89.38641811811507
+    },
+    {
+      "frame": 18,
+      "timestamp": 0.6,
+      "type": "fastball",
+      "velocity": 92.24603321459853
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6666666666666666,
+      "type": "unknown",
+      "velocity": 91.44852621344344
+    },
+    {
+      "frame": 22,
+      "timestamp": 0.7333333333333333,
+      "type": "unknown",
+      "velocity": 92.1616562102745
+    },
+    {
+      "frame": 24,
+      "timestamp": 0.8,
+      "type": "unknown",
+      "velocity": 88.13355209251698
+    },
+    {
+      "frame": 26,
+      "timestamp": 0.8666666666666667,
+      "type": "unknown",
+      "velocity": 94.2917414421842
+    },
+    {
+      "frame": 28,
+      "timestamp": 0.9333333333333333,
+      "type": "unknown",
+      "velocity": 85.76732206949814
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0,
+      "type": "unknown",
+      "velocity": 88.71903695623773
+    },
+    {
+      "frame": 32,
+      "timestamp": 1.0666666666666667,
+      "type": "unknown",
+      "velocity": 94.80062729134269
+    },
+    {
+      "frame": 34,
+      "timestamp": 1.1333333333333333,
+      "type": "unknown",
+      "velocity": 93.41377183343992
+    },
+    {
+      "frame": 36,
+      "timestamp": 1.2,
+      "type": "unknown",
+      "velocity": 92.43283678612427
+    },
+    {
+      "frame": 38,
+      "timestamp": 1.2666666666666666,
+      "type": "fastball",
+      "velocity": 88.76192097341443
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3333333333333333,
+      "type": "unknown",
+      "velocity": 89.86002300142462
+    },
+    {
+      "frame": 42,
+      "timestamp": 1.4,
+      "type": "unknown",
+      "velocity": 86.04928780268197
+    },
+    {
+      "frame": 44,
+      "timestamp": 1.4666666666666666,
+      "type": "unknown",
+      "velocity": 89.16484080031371
+    },
+    {
+      "frame": 46,
+      "timestamp": 1.5333333333333334,
+      "type": "unknown",
+      "velocity": 87.88318436845641
+    },
+    {
+      "frame": 48,
+      "timestamp": 1.6,
+      "type": "unknown",
+      "velocity": 89.28738891145785
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6666666666666667,
+      "type": "unknown",
+      "velocity": 89.6141430539179
+    },
+    {
+      "frame": 52,
+      "timestamp": 1.7333333333333334,
+      "type": "unknown",
+      "velocity": 92.2623459866847
+    },
+    {
+      "frame": 54,
+      "timestamp": 1.8,
+      "type": "unknown",
+      "velocity": 93.03973884967516
+    },
+    {
+      "frame": 56,
+      "timestamp": 1.8666666666666667,
+      "type": "unknown",
+      "velocity": 87.56850653389425
+    },
+    {
+      "frame": 58,
+      "timestamp": 1.9333333333333333,
+      "type": "fastball",
+      "velocity": 87.95966029707638
+    },
+    {
+      "frame": 60,
+      "timestamp": 2.0,
+      "type": "unknown",
+      "velocity": 90.02846147483483
+    },
+    {
+      "frame": 62,
+      "timestamp": 2.066666666666667,
+      "type": "unknown",
+      "velocity": 87.43004412520973
+    },
+    {
+      "frame": 64,
+      "timestamp": 2.1333333333333333,
+      "type": "unknown",
+      "velocity": 88.85793401874069
+    },
+    {
+      "frame": 66,
+      "timestamp": 2.2,
+      "type": "unknown",
+      "velocity": 94.99998157243284
+    },
+    {
+      "frame": 68,
+      "timestamp": 2.2666666666666666,
+      "type": "unknown",
+      "velocity": 87.38053536241581
+    },
+    {
+      "frame": 70,
+      "timestamp": 2.3333333333333335,
+      "type": "unknown",
+      "velocity": 88.29427612573598
+    },
+    {
+      "frame": 72,
+      "timestamp": 2.4,
+      "type": "unknown",
+      "velocity": 93.26671974376937
+    },
+    {
+      "frame": 74,
+      "timestamp": 2.466666666666667,
+      "type": "unknown",
+      "velocity": 89.0544310471542
+    },
+    {
+      "frame": 76,
+      "timestamp": 2.533333333333333,
+      "type": "unknown",
+      "velocity": 86.03947015501355
+    },
+    {
+      "frame": 78,
+      "timestamp": 2.6,
+      "type": "fastball",
+      "velocity": 88.33868709716049
+    },
+    {
+      "frame": 80,
+      "timestamp": 2.6666666666666665,
+      "type": "unknown",
+      "velocity": 92.79205189054267
+    },
+    {
+      "frame": 82,
+      "timestamp": 2.7333333333333334,
+      "type": "unknown",
+      "velocity": 94.53902342581021
+    },
+    {
+      "frame": 84,
+      "timestamp": 2.8,
+      "type": "unknown",
+      "velocity": 89.18812399718382
+    },
+    {
+      "frame": 86,
+      "timestamp": 2.8666666666666667,
+      "type": "unknown",
+      "velocity": null
+    },
+    {
+      "frame": 88,
+      "timestamp": 2.933333333333333,
+      "type": "unknown",
+      "velocity": null
+    }
+  ],
+  "clips": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.06666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.13333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.2,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.26666666666666666,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.3333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 12,
+      "timestamp": 0.4,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 14,
+      "timestamp": 0.4666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 16,
+      "timestamp": 0.5333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 18,
+      "timestamp": 0.6,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 20,
+      "timestamp": 0.6666666666666666,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 22,
+      "timestamp": 0.7333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 24,
+      "timestamp": 0.8,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 26,
+      "timestamp": 0.8666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 28,
+      "timestamp": 0.9333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 32,
+      "timestamp": 1.0666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 34,
+      "timestamp": 1.1333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 36,
+      "timestamp": 1.2,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 38,
+      "timestamp": 1.2666666666666666,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 40,
+      "timestamp": 1.3333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 42,
+      "timestamp": 1.4,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 44,
+      "timestamp": 1.4666666666666666,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 46,
+      "timestamp": 1.5333333333333334,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 48,
+      "timestamp": 1.6,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 50,
+      "timestamp": 1.6666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 52,
+      "timestamp": 1.7333333333333334,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 54,
+      "timestamp": 1.8,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 56,
+      "timestamp": 1.8666666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 58,
+      "timestamp": 1.9333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 2.0,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 62,
+      "timestamp": 2.066666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 64,
+      "timestamp": 2.1333333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 66,
+      "timestamp": 2.2,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 68,
+      "timestamp": 2.2666666666666666,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 70,
+      "timestamp": 2.3333333333333335,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 72,
+      "timestamp": 2.4,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 74,
+      "timestamp": 2.466666666666667,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 76,
+      "timestamp": 2.533333333333333,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 78,
+      "timestamp": 2.6,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 80,
+      "timestamp": 2.6666666666666665,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 82,
+      "timestamp": 2.7333333333333334,
+      "tags": [
+        "pitch"
+      ]
+    },
+    {
+      "frame": 84,
+      "timestamp": 2.8,
+      "tags": [
+        "pitch"
+      ]
+    }
+  ],
+  "heatmap_points": [
+    [
+      200.5,
+      540.5
+    ],
+    [
+      240.5,
+      540.5
+    ],
+    [
+      280.5,
+      540.5
+    ],
+    [
+      320.5,
+      540.5
+    ],
+    [
+      360.5,
+      540.5
+    ],
+    [
+      400.5,
+      540.5
+    ],
+    [
+      440.5,
+      540.5
+    ],
+    [
+      480.5,
+      540.5
+    ],
+    [
+      520.5,
+      540.5
+    ],
+    [
+      560.5,
+      540.5
+    ],
+    [
+      600.5,
+      540.5
+    ],
+    [
+      640.5,
+      540.5
+    ],
+    [
+      680.5,
+      540.5
+    ],
+    [
+      720.5,
+      540.5
+    ],
+    [
+      760.5,
+      540.5
+    ],
+    [
+      800.5,
+      540.5
+    ],
+    [
+      840.5,
+      540.5
+    ],
+    [
+      880.5,
+      540.5
+    ],
+    [
+      920.5,
+      540.5
+    ],
+    [
+      960.5,
+      540.5
+    ],
+    [
+      1000.5,
+      540.5
+    ],
+    [
+      1040.5,
+      540.5
+    ],
+    [
+      1080.5,
+      540.5
+    ],
+    [
+      1120.5,
+      540.5
+    ],
+    [
+      1160.5,
+      540.5
+    ],
+    [
+      1200.5,
+      540.5
+    ],
+    [
+      1240.5,
+      540.5
+    ],
+    [
+      1280.5,
+      540.5
+    ],
+    [
+      1320.5,
+      540.5
+    ],
+    [
+      1360.5,
+      540.5
+    ],
+    [
+      1400.5,
+      540.5
+    ],
+    [
+      1440.5,
+      540.5
+    ],
+    [
+      1480.5,
+      540.5
+    ],
+    [
+      1520.5,
+      540.5
+    ],
+    [
+      1560.5,
+      540.5
+    ],
+    [
+      1600.5,
+      540.5
+    ],
+    [
+      1640.5,
+      540.5
+    ],
+    [
+      1680.5,
+      540.5
+    ],
+    [
+      1720.5,
+      540.5
+    ],
+    [
+      1760.5,
+      540.5
+    ],
+    [
+      1800.5,
+      540.5
+    ],
+    [
+      1840.5,
+      540.5
+    ],
+    [
+      1880.5,
+      540.5
+    ]
+  ]
+}

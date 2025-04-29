@@ -1,0 +1,74 @@
+{
+  "pitcher_report": {
+    "pitcher_reports": {
+      "Unknown": {
+        "pitch_types": {
+          "fastball": {
+            "count": 1,
+            "avg_speed": 51.13638,
+            "success_rate": 0.0,
+            "percentage": 100.0
+          }
+        },
+        "total_pitches": 1,
+        "count_based_selection": {
+          "0-0": {
+            "total": 1,
+            "types": {
+              "fastball": 100.0
+            }
+          }
+        },
+        "velocity_stats": {
+          "max": 51.13638,
+          "avg": 51.13638,
+          "min": 51.13638,
+          "by_pitch_type": {
+            "fastball": {
+              "max": 51.13638,
+              "avg": 51.13638,
+              "min": 51.13638,
+              "count": 1,
+              "trend": [
+                51.13638
+              ]
+            }
+          },
+          "trend": [
+            51.13638
+          ]
+        },
+        "summary": "Velocity Analysis:\n- Max Velocity: 51.1 mph\n- Average Velocity: 51.1 mph\n- Min Velocity: 51.1 mph\n\nVelocity by Pitch Type:\n- Fastball:\n  Max: 51.1 mph\n  Avg: 51.1 mph\n  Min: 51.1 mph\n\nPitch Type Distribution:\n- Fastball: 100.0% (avg speed: 51.1 mph, success rate: 0.0%)\n\nCount-Based Pitch Selection:\n\nTotal Pitches: 1"
+      }
+    },
+    "pitcher_changes": []
+  },
+  "batter_report": {},
+  "pitch_sequence": [
+    {
+      "timestamp": 0.0,
+      "type": "fastball",
+      "speed": 51.13638,
+      "result": "unknown"
+    }
+  ],
+  "heatmap_data": {
+    "zones": [
+      {
+        "x": 0.2,
+        "y": 0.2,
+        "value": 5
+      },
+      {
+        "x": 0.5,
+        "y": 0.5,
+        "value": 8
+      },
+      {
+        "x": 0.8,
+        "y": 0.8,
+        "value": 3
+      }
+    ]
+  }
+}

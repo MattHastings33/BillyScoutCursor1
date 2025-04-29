@@ -1,0 +1,25 @@
+{
+  "game_url": "https://denisonbigred.com/sports/baseball/stats/2025/kenyon-college/boxscore/9520",
+  "pitchers": [
+    {
+      "name": "C. Harris",
+      "position": "p/dh",
+      "innings": 5.0,
+      "start_inning": 1,
+      "end_inning": 6.0
+    },
+    {
+      "name": "C. Cannuscio",
+      "position": "p",
+      "innings": 3.0,
+      "start_inning": 6,
+      "end_inning": 9.0
+    }
+  ],
+  "total_innings": 8.0,
+  "final_score": {
+    "runs": 3,
+    "hits": 4,
+    "errors": 1
+  }
+}
